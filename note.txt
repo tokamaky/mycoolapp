@@ -1,0 +1,6 @@
+2 methods of running java without IDE 
+
+    ./mvnw package
+    java -jar
+
+    ./mvnw spring-boot: run
